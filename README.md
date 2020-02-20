@@ -1,5 +1,4 @@
 # Data_amplification
-
 create folder:
 .
 ├──background/
