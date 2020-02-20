@@ -1,4 +1,18 @@
 # Data_amplification
+create folder:
+.
+├──background/
+├──data/
+|  ├──object1/
+|  |  ├──img/
+|  |  └──label/
+├──output
+|  ├──src
+|  ├──label
+|  ├──visualize
+|  └──yaml
+└──temp
+
 1. -> use labelme to get label.png 
 2. -> put your "background img" to background/
 3. -> put your "want to train img" to data/
