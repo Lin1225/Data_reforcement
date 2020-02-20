@@ -12,7 +12,6 @@
 # *$py.class
 
 # Data files and directories common in repo root
-background/
 img/
 src/
 label/
